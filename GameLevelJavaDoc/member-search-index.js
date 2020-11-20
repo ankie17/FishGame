@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"game","c":"GameLevel","l":"exitPosition()"},{"p":"game","c":"GameLevel","l":"GameLevel()","url":"%3Cinit%3E()"},{"p":"game","c":"GameLevel","l":"getPlayer()"},{"p":"game","c":"GameLevel","l":"level"},{"p":"game","c":"GameLevel","l":"populate(Game)","url":"populate(game.Game)"},{"p":"game","c":"GameLevel","l":"starCount"}]
